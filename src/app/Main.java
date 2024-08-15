@@ -1,4 +1,4 @@
-package aqpp;
+package app;
 
 public class Main {
     static int count;
